@@ -8,3 +8,7 @@ const collect_ratings=()=>{
 };
 
 const elements=document.querySelectorAll("rating");
+
+const elements.forEach((element) => {
+  
+});
